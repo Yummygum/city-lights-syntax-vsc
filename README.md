@@ -10,7 +10,7 @@ This City Lights Color Theme is a part of City Lights; suite of beautiful matte 
 Install the City Lights Color Theme through CLI:  
 `git clone https://github.com/Yummygum/city-lights-syntax-vsc.git ~/.vscode/extensions/city-lights-theme`
 
-If you are using the *insider buils* you can install the City Lights Color Theme throught CLI using the following:  
+If you are using the *insiders buils* you can install the City Lights Color Theme through CLI using the following:  
 `git clone https://github.com/Yummygum/city-lights-syntax-vsc.git ~/.vscode-insiders/extensions/city-lights-theme`
 
 ## Feedback/Issues
