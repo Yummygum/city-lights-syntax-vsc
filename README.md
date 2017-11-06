@@ -7,8 +7,11 @@ The City Lights Color Theme is a gorgeous dark syntax theme designed with focus 
 This City Lights Color Theme is a part of City Lights; suite of beautiful matte dark themed goodies for Atom & Visual Studio Code. For more information, please go to http://citylights.xyz.
 
 ## Install
-Install the City Lights Color Theme through CLI: <br/>
+Install the City Lights Color Theme through CLI:  
 `git clone https://github.com/Yummygum/city-lights-syntax-vsc.git ~/.vscode/extensions/city-lights-theme`
+
+If you are using the *insiders buils* you can install the City Lights Color Theme through CLI using the following:  
+`git clone https://github.com/Yummygum/city-lights-syntax-vsc.git ~/.vscode-insiders/extensions/city-lights-theme`
 
 ## Feedback/Issues
 Are you enjoying the City Lights Color Theme? Don't hesitate to share your excitement. Also let us know if you'd like to see any specific syntax added by creating a Github issue. 
