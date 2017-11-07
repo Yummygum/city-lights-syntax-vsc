@@ -20,6 +20,6 @@ The following licensing applies to City Lights Syntax Theme: Attribution-NonComm
 The City Lights Color Theme is available for free. If you're enjoying the City Lights Syntax Theme, feel free to help us crank out updates even faster by donating a coffee to us via PayPal.
 
 Built with `&hearts;` by Yummygum <br/>
-[yummygum.com](yummygum.com) <br/>
-[twitter.com/yummygum](twitter.com/yummygum) <br/>
-[instagram.com/yummygum](instagram.com/yummygum) <br/>
+[yummygum.com](https://yummygum.com) <br/>
+[twitter.com/yummygum](https://twitter.com/yummygum) <br/>
+[instagram.com/yummygum](https://instagram.com/yummygum) <br/>
