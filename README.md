@@ -1,6 +1,6 @@
 City Lights Color Theme
 
-![Image of the city lights color theme](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
+![Image of the city lights color theme](https://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
 The City Lights Color Theme is a gorgeous dark syntax theme designed with focus in mind. City Lights Color Theme has many custom made visual aids to help you code faster and more accurate. Over eight of the most popular coding languages are currently supported.
 
@@ -9,6 +9,8 @@ This City Lights Color Theme is a part of City Lights; suite of beautiful matte 
 ## Install
 Install the City Lights Color Theme through CLI: <br/>
 `git clone https://github.com/Yummygum/city-lights-syntax-vsc.git ~/.vscode/extensions/city-lights-theme`
+or via  
+https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme
 
 ## Feedback/Issues
 Are you enjoying the City Lights Color Theme? Don't hesitate to share your excitement. Also let us know if you'd like to see any specific syntax added by creating a Github issue. 
@@ -20,6 +22,6 @@ The following licensing applies to City Lights Syntax Theme: Attribution-NonComm
 The City Lights Color Theme is available for free. If you're enjoying the City Lights Syntax Theme, feel free to help us crank out updates even faster by donating a coffee to us via PayPal.
 
 Built with `&hearts;` by Yummygum <br/>
-[yummygum.com](yummygum.com) <br/>
-[twitter.com/yummygum](twitter.com/yummygum) <br/>
-[instagram.com/yummygum](instagram.com/yummygum) <br/>
+[yummygum.com](https://yummygum.com) <br/>
+[twitter.com/yummygum](http://twitter.com/yummygum) <br/>
+[instagram.com/yummygum](https://instagram.com/yummygum) <br/>
