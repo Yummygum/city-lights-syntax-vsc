@@ -186,8 +186,8 @@
 
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.activeBackground": "#333F4A",
-    "scrollbarSlider.background": "#41505E",
-    "scrollbarSlider.hoverBackground": "#41505E",
+    "scrollbarSlider.background": "#41505E80",
+    "scrollbarSlider.hoverBackground": "#41505ECC",
 
     "selection.background": "#027dff",
 
