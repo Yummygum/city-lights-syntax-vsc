@@ -198,6 +198,8 @@
     "sideBarSectionHeader.foreground": "#aaaaaa",
     "sideBarTitle.foreground": "#aaaaaa",
 
+    "gitDecoration.ignoredResourceForeground": "#aaaaaa80",
+
     "statusBar.background": "#171d23",
     "statusBar.border": "#1D252C",
     "statusBar.debuggingBackground": "#171d23",
