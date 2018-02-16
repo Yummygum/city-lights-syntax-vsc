@@ -11,8 +11,8 @@
     "activityBarBadge.background": "#333F4A",
     "activityBarBadge.foreground": "#000",
 
-    "badge.background": "#008B94",
-    "badge.foreground": "#000",
+    "badge.background": "#5ec4ff",
+    "badge.foreground": "#181e24",
 
     "button.background": "#1D252C",
     "button.foreground": "#fff",
@@ -83,7 +83,7 @@
 
     "editorHoverWidget.background": "#15232d",
     "editorHoverWidget.border": "#333F4A",
-    "editorIndentGuide.background": "#41505E",
+    "editorIndentGuide.background": "#28323a",
     "editorLineNumber.foreground": "#41505E",
     "editorLink.activeForeground": "#aaa",
 
