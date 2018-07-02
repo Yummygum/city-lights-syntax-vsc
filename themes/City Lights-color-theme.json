@@ -32,8 +32,8 @@
     "diffEditor.removedTextBackground": "#ee3a4311",
     "diffEditor.removedTextBorder": "#ee3a4355",
 
-    "dropdown.background": "#1D252C",
-    "dropdown.border": "#15232d",
+    "dropdown.background": "#28313a",
+    "dropdown.border": "#28313a",
     "dropdown.foreground": "#fff",
 
     "editor.background": "#1D252C",
@@ -77,9 +77,9 @@
     "editorGroup.border": "#1D252C",
     "editorGroup.dropBackground": "#333F4A",
 
-    "editorGroupHeader.noTabsBackground": "#1D252C",
-    "editorGroupHeader.tabsBackground": "#1D252C",
-    "editorGroupHeader.tabsBorder": "#15232d",
+    "editorGroupHeader.noTabsBackground": "#333F4A",
+    "editorGroupHeader.tabsBackground": "#181e24",
+    "editorGroupHeader.tabsBorder": "#333F4A",
 
     "editorHoverWidget.background": "#15232d",
     "editorHoverWidget.border": "#333F4A",
@@ -101,7 +101,7 @@
     "editorSuggestWidget.border": "#15232d",
     "editorSuggestWidget.foreground": "#aaa",
     "editorSuggestWidget.highlightForeground": "#ebbf83",
-    "editorSuggestWidget.selectedBackground": "#1D252C",
+    "editorSuggestWidget.selectedBackground": "#28323a",
 
     "editorWarning.border": "#ffffff00",
     "editorWarning.foreground": "#ebbf83",
@@ -116,7 +116,7 @@
     "focusBorder": "#333F4A",
     "foreground": "#aaa",
 
-    "input.background": "#1D252C",
+    "input.background": "#333F4A",
     "input.border": "#333F4A",
     "input.foreground": "#b7c5d3",
     "input.placeholderForeground": "#aaa",
@@ -166,7 +166,7 @@
     "panelTitle.inactiveForeground": "#aaa",
 
     "peekView.border": "#333F4A",
-    "peekViewEditor.background": "#1D252C",
+    "peekViewEditor.background": "#15232d",
     "peekViewEditor.matchHighlightBackground": "#15232d",
     "peekViewEditorGutter.background": "#333F4A",
     "peekViewResult.background": "#15232d",
@@ -248,8 +248,8 @@
     "textCodeBlock.background": "#171d23",
     "textLink.activeForeground": "#718ca1",
     "textLink.foreground": "#718ca1",
-    "textPreformat.foreground": "#1D252C",
-    "textSeparator.foreground": "#1D252C",
+    "textPreformat.foreground": "#718ca1",
+    "textSeparator.foreground": "#718ca1",
     "titleBar.activeBackground": "#171d23",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#1D252C",
@@ -414,7 +414,7 @@
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
-        "foreground": "#41505e"
+        "foreground": "#b7c5d3"
       }
     },
     {
@@ -594,7 +594,7 @@
     },
     {
       "name": "[HTML] - ID value",
-      "scope": "meta.toc-list.id.html",
+      "scope": "toc-list.id.html",
       "settings": {
         "foreground": "#68A1F0"
       }
