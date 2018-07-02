@@ -2,11 +2,11 @@
     "name": "city-lights-theme",
     "displayName": "City Lights theme",
     "description": "The City Lights Color Theme is a gorgeous dark color theme designed with focus in mind.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author": "Noud Adrichem",
     "category": "Theme",
     "publisher": "yummygum",
-    "icon": "icon.png",      
+    "icon": "icon.png",
     "repository": "https://github.com/Yummygum/city-lights-syntax-vsc",
     "engines": {
         "vscode": "^1.17.0"
