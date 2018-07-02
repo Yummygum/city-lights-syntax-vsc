@@ -8,7 +8,7 @@
     "activityBar.border": "#333F4A",
     "activityBar.dropBackground": "#333F4A",
     "activityBar.foreground": "#fff",
-    "activityBarBadge.background": "#5ec4ff",
+    "activityBarBadge.background": "#333F4A",
     "activityBarBadge.foreground": "#181e24",
 
     "badge.background": "#5ec4ff",
@@ -110,7 +110,7 @@
     "editorWidget.border": "#333F4A",
     "errorForeground": "#e27e8d",
 
-    "extensionButton.prominentBackground": "#5ec4ff",
+    "extensionButton.prominentBackground": "#008B94",
     "extensionButton.prominentForeground": "#fff",
     "extensionButton.prominentHoverBackground": "#008B94",
     "focusBorder": "#333F4A",
@@ -207,7 +207,7 @@
     "statusBar.foreground": "#aaa",
     "statusBar.noFolderBackground": "#171d23",
     "statusBar.noFolderForeground": "#aaa",
-    "statusBarItem.activeBackground": "#5ec4ff",
+    "statusBarItem.activeBackground": "#333F4A",
     "statusBarItem.hoverBackground": "#333F4A",
     "statusBarItem.prominentBackground": "#171d23",
     "statusBarItem.prominentHoverBackground": "#333F4A",
