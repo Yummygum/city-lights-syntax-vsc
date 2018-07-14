@@ -139,14 +139,6 @@
     "list.inactiveSelectionBackground": "#333F4A",
     "list.inactiveSelectionForeground": "#aaa",
 
-    "merge.border": "#ffffff00",
-    "merge.commonContentBackground": "#ffffff00",
-    "merge.commonHeaderBackground": "#ffffff00",
-    "merge.currentContentBackground": "#ffffff00",
-    "merge.currentHeaderBackground": "#ffffff00",
-    "merge.incomingContentBackground": "#ffffff00",
-    "merge.incomingHeaderBackground": "#ffffff00",
-
     "notification.background": "#ebbf83",
     "notification.buttonBackground": "#5ec4ff",
     "notification.buttonForeground": "#fff",
