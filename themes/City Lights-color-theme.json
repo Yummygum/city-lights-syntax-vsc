@@ -32,8 +32,8 @@
     "diffEditor.removedTextBackground": "#ee3a4311",
     "diffEditor.removedTextBorder": "#ee3a4355",
 
-    "dropdown.background": "#28313a",
-    "dropdown.border": "#28313a",
+    "dropdown.background": "#41505e",
+    "dropdown.border": "#41505e",
     "dropdown.foreground": "#fff",
 
     "editor.background": "#1D252C",
