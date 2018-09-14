@@ -1,6 +1,6 @@
 City Lights Color Theme
 
-![Image of the city lights color theme](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
+![Image of the city lights color theme](https://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
 The City Lights Color Theme is a gorgeous dark syntax theme designed with focus in mind. City Lights Color Theme has many custom made visual aids to help you code faster and more accurate. Over eight of the most popular coding languages are currently supported.
 
