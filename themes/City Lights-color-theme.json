@@ -4,6 +4,11 @@
   "type": "dark",
   "colors": {
 
+    "breadcrumb.foreground": "#718ca1",
+    "breadcrumb.focusForeground": "#b7c5d3",
+    "breadcrumb.activeSelectionForeground": "#41505e",
+    "breadcrumbPicker.background": "#28323a",
+
     "activityBar.background": "#1D252C",
     "activityBar.border": "#333F4A",
     "activityBar.dropBackground": "#333F4A",
