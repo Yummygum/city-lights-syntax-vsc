@@ -656,6 +656,17 @@
       }
     },
     {
+      "name": "[JAVASCRIPT] - Contstants",
+      "scope": [
+        "variable.other.constant.js",
+        "variable.other.constant.js.jsx"
+      ],
+      "settings": {
+        "background": "#8BD49C",
+        "foreground": "#8BD49C"
+      }
+    },
+    {
       "name": "[PYTHON] - Self Argument",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
