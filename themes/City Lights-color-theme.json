@@ -679,6 +679,19 @@
       "settings": {
         "foreground": "#b62d65"
       }
+    },{
+      "name": "[PYTHON] - Fuction argument ",
+      "scope": "meta.function-call.arguments.python",
+      "settings": {
+        "foreground": "#8bd49c"
+      }
+    },
+    {
+      "name": "[PYTHON] - Fuction call ",
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "#008b94"
+      }
     },
     {
       "name": "[JSON] - Support",
