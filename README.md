@@ -28,7 +28,7 @@ Clone the theme repository as `city-lights-theme`:
 git clone https://github.com/Yummygum/city-lights-syntax-vsc.git city-lights-theme
 ```
 Afterwards, you will need to activate the theme via
-`File > Preferences > Color Theme > **City Lights**`
+`File > Preferences > Color Theme > City Lights`
 
 
 ## Feedback/Issues
