@@ -145,18 +145,6 @@
     "list.inactiveSelectionBackground": "#333F4A",
     "list.inactiveSelectionForeground": "#b7c5d3",
 
-    "notification.background": "#ebbf83",
-    "notification.buttonBackground": "#5ec4ff",
-    "notification.buttonForeground": "#fff",
-    "notification.buttonHoverBackground": "#008B94",
-    "notification.errorBackground": "#b62d65",
-    "notification.errorForeground": "#fff",
-    "notification.foreground": "#000",
-    "notification.infoBackground": "#5ec4ff",
-    "notification.infoForeground": "#fff",
-    "notification.warningBackground": "#008B94",
-    "notification.warningForeground": "#000",
-
     "panel.background": "#171d23",
     "panel.border": "#171d23",
     "panelTitle.activeBorder": "#41505E",
@@ -264,8 +252,8 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-
-        "foreground": "#41505E"
+        "fontStyle": "italic",
+        "foreground": "#b7c5d3"
       }
     },
     {
@@ -328,8 +316,7 @@
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#718CA1",
-        "background": "#718CA1"
+        "foreground": "#718CA1"
       }
     },
     {
@@ -652,7 +639,6 @@
       "name": "[JAVASCRIPT] - Inherited Component",
       "scope": ["entity.other.inherited-class.js", "variable.language.this.js", "variable.other.readwrite.alias.js", "meta.import.js"],
       "settings": {
-        "background": "#B7C5D3",
         "foreground": "#B7C5D3"
       }
     },
@@ -663,7 +649,6 @@
         "variable.other.constant.js.jsx"
       ],
       "settings": {
-        "background": "#8BD49C",
         "foreground": "#8BD49C"
       }
     },
