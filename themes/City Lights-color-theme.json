@@ -716,6 +716,54 @@
       "settings": {
         "foreground": "#ebbf83"
       }
-    }
+    },
+    {
+      "name": "[JAVA] - extending class",
+      "scope": [
+        "entity.other.inherited-class.java"
+      ],
+      "settings": {
+        
+        "foreground": "#ebbf83"
+      }
+    },
+    {
+      "name": "[JAVA] - annotations",
+      "scope": [
+        "storage.type.annotation.java",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#539afc"
+      }
+    },
+    {
+      "name": "[JAVA] - storage types",
+      "scope": [
+        "storage.type.java"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#b62d65"
+      }
+    },
+    {
+      "name": "[JAVA] - key words class public private etc.",
+      "scope": [
+        "storage.modifier.java"
+      ],
+      "settings": {
+        "foreground": "#5ec4ff"
+      }
+    },
+    {
+      "name": "[JAVA] - class definition",
+      "scope": [
+        "entity.name.type.class.java"
+      ],
+      "settings": {
+        "foreground": "#d98e48"
+      }
+    },
   ]
 }
