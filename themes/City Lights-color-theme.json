@@ -711,7 +711,6 @@
       "scope": [
         "variable.other.php",
         "punctuation.definition.variable.php",
-        "variable.other.php"
       ],
       "settings": {
         "foreground": "#ebbf83"
@@ -720,11 +719,11 @@
     {
       "name": "[JAVA] - extending class",
       "scope": [
-        "entity.other.inherited-class.java"
+        "entity.other.inherited-class.java",
       ],
       "settings": {
         
-        "foreground": "#ebbf83"
+        "foreground": "#d98e48"
       }
     },
     {
@@ -734,7 +733,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#539afc"
+        "foreground": "#b7c5d3"
       }
     },
     {
@@ -744,7 +743,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#b62d65"
+        "foreground": "#008b94"
       }
     },
     {
@@ -763,6 +762,26 @@
       ],
       "settings": {
         "foreground": "#d98e48"
+      }
+    },
+    {
+      "name": "[JAVA] - this and super",
+      "scope": [
+        "variable.language.java",
+        "meta.try.resources.java"
+      ],
+      "settings": {
+        "foreground": "#b62d65"
+      }
+    },
+    {
+      "name": "[JAVA] - class definition variables",
+      "scope": [
+        "variable.other.definition.java",
+        "meta.try.resources.java"
+      ],
+      "settings": {
+        "foreground": "#8bd49c"
       }
     },
   ]
