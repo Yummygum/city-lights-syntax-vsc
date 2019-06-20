@@ -252,8 +252,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#b7c5d3"
+        "foreground": "#41505E"
       }
     },
     {
