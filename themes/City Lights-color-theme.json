@@ -629,7 +629,11 @@
     },
     {
       "name": "[JAVASCRIPT] - Variable Language",
-      "scope": "variable.language, entity.name.type.class.js",
+      "scope": [
+        "variable.language, entity.name.type.class.js",
+        "entity.other.inherited-class.js",
+        "variable.language.this.ts"
+      ],
       "settings": {
         "foreground": "#d98e48"
       }
@@ -645,7 +649,18 @@
       "name": "[JAVASCRIPT] - Contstants",
       "scope": [
         "variable.other.constant.js",
-        "variable.other.constant.js.jsx"
+        "variable.other.constant.js.jsx",
+        "variable.other.constant.ts"
+      ],
+      "settings": {
+        "foreground": "#8BD49C"
+      }
+    },
+    {
+      "name": "[TYPESCRIPT] - class thingy",
+      "scope": [
+        "variable.object.property.ts",
+        "variable.object.property.js",
       ],
       "settings": {
         "foreground": "#8BD49C"
@@ -655,7 +670,7 @@
       "name": "[PYTHON] - Self Argument",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#fb94ff"
+        "foreground": "#b62d65"
       }
     },
     {
@@ -729,6 +744,8 @@
       "name": "[JAVA] - annotations",
       "scope": [
         "storage.type.annotation.java",
+        "storage.type.annotation.ts",
+        "entity.name.type.ts"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -738,7 +755,9 @@
     {
       "name": "[JAVA] - storage types",
       "scope": [
-        "storage.type.java"
+        "storage.type.java",
+        "support.type.primitive.ts",
+        "entity.name.type.ts"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -748,7 +767,10 @@
     {
       "name": "[JAVA] - key words class public private etc.",
       "scope": [
-        "storage.modifier.java"
+        "storage.modifier.java",
+        "storage.modifier.ts",
+        "storage.modifier.js",
+        "storage.modifier.jsx"
       ],
       "settings": {
         "foreground": "#5ec4ff"
@@ -764,10 +786,11 @@
       }
     },
     {
-      "name": "[JAVA] - this and super",
+      "name": "[JAVA/TYPESCRIPT] - this and super",
       "scope": [
         "variable.language.java",
-        "meta.try.resources.java"
+        "meta.try.resources.java",
+        "variable.language.super.ts"
       ],
       "settings": {
         "foreground": "#b62d65"
