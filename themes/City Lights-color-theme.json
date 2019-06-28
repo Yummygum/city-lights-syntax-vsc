@@ -632,7 +632,8 @@
       "scope": [
         "variable.language, entity.name.type.class.js",
         "entity.other.inherited-class.js",
-        "variable.language.this.ts"
+        "variable.language.this.ts",
+        "variable.language.this.java"
       ],
       "settings": {
         "foreground": "#d98e48"
@@ -786,7 +787,7 @@
       }
     },
     {
-      "name": "[JAVA/TYPESCRIPT] - this and super",
+      "name": "[JAVA/TYPESCRIPT] - super",
       "scope": [
         "variable.language.java",
         "meta.try.resources.java",
