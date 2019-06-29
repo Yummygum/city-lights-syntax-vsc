@@ -754,7 +754,7 @@
       }
     },
     {
-      "name": "[JAVA] - storage types",
+      "name": "[JAVA/TYPESCRIPT] - storage types",
       "scope": [
         "storage.type.java",
         "support.type.primitive.ts",
@@ -763,6 +763,16 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#008b94"
+      }
+    },
+    {
+      "name": "[TYPESCRIPT] - storage types nested",
+      "scope": [
+        "support.type.primitive.ts",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#33ced8"
       }
     },
     {
