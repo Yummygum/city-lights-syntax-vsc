@@ -24,7 +24,6 @@
     "button.foreground": "#fff",
     "button.hoverBackground": "#008B94",
 
-    "contrastActiveBorder": null,
     "contrastBorder": "#ffffff00",
 
     "debugExceptionWidget.background": "#1D252C",
@@ -66,9 +65,9 @@
 
     "editor.wordHighlightStrongBackground": "#41505e",
 
-    "editor.wordHighlightBackground": "#FFFFFF0D",
-    "editorBracketMatch.background": "#3d454d",
-    "editorBracketMatch.border": "#4e6e99",
+    "editor.wordHighlightBackground": "#3d454d",
+    "editorBracketMatch.background": "#4e6e99",
+    "editorBracketMatch.border": "#26506D",
     "editorCodeLens.foreground": "#FFFFFF0D",
     "editorCursor.foreground": "#b7c5d3",
     "editorError.border": "#333F4A",
@@ -79,7 +78,7 @@
     "editorGutter.deletedBackground": "#e27e8d",
     "editorGutter.modifiedBackground": "#26506D",
 
-    "editorGroup.background": "#1D252C",
+    "editorGroup.emptyBackground": "#1D252C",
     "editorGroup.border": "#1D252C",
     "editorGroup.dropBackground": "#333F4A",
 
@@ -185,7 +184,12 @@
     "sideBarSectionHeader.foreground": "#b7c5d3",
     "sideBarTitle.foreground": "#b7c5d3",
 
-    "gitDecoration.ignoredResourceForeground": "#b7c5d3",
+    "gitDecoration.ignoredResourceForeground": "#41505e",
+    "gitDecoration.addedResourceForeground": "#60af73",
+    "gitDecoration.modifiedResourceForeground": "#ebbf83",
+    "gitDecoration.deletedResourceForeground": "#e27e8d",
+    "gitDecoration.untrackedResourceForeground": "#8bd49c",
+    "gitDecoration.conflictingResourceForeground": "#33ced8",
 
     "statusBar.background": "#171d23",
     "statusBar.border": "#1D252C",
