@@ -2,6 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "City Lights",
   "type": "dark",
+  "editor.semanticHighlighting.enabled": false,
   "colors": {
 
     "breadcrumb.foreground": "#718ca1",
@@ -68,8 +69,8 @@
     "editor.wordHighlightBackground": "#FFFFFF0D",
     "editorBracketMatch.background": "#3d454d",
     "editorBracketMatch.border": "#4e6e99",
-    "editorCodeLens.foreground": "#b7c5d3",
-    "editorCursor.foreground": "#5ec4ff",
+    "editorCodeLens.foreground": "#FFFFFF0D",
+    "editorCursor.foreground": "#b7c5d3",
     "editorError.border": "#333F4A",
     "editorError.foreground": "#e27e8d",
 
@@ -321,12 +322,12 @@
     {
       "name": "Function Parameters",
       "scope": [
+        "variable.parameter",
         "entity.name.variable.parameter",
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments",
         "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
-        "variable.parameter"
       ],
       "settings": {
         "foreground": "#ebbf83"
@@ -389,14 +390,47 @@
     },
     {
       "name": "[JAVASCRIPT JSX] React Class",
-      "scope": ["support.class.component.js"],
+      "scope": [
+        "support.class.component.js",
+        "support.class.component.jsx",
+        "support.class.component.ts",
+        "support.class.component.tsx"
+      ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#70e1e8"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] - Async/Await",
+      "scope": [
+        "storage.modifier.async.tsx",
+        "storage.modifier.async.ts",
+        "storage.modifier.async.js",
+        "storage.modifier.async.jsx",
+        "keyword.operator.new.js",
+        "keyword.control.flow.js",
+        "keyword.control.flow.jsx",
+        "keyword.control.flow.ts",
+        "keyword.control.flow.tsx",
+      ],
+      "settings": {
+        "foreground": "#5ec4ff",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Support Variable Property DOM",
-      "scope": "support.variable.property.dom",
+      "scope":[
+        "support.variable.property.dom",
+        "support.constant.math.js",
+        "support.constant.math.jsx",
+        "support.constant.math.ts",
+        "support.constant.math.jsx",
+        "support.class.console.js",
+        "support.class.console.jsx",
+        "support.class.console.ts",
+        "support.class.console.tsx"
+      ],
       "settings": {
         "foreground": "#b7c5d3"
       }
@@ -603,11 +637,10 @@
         "meta.tag.inline.any.html",
         "entity.name.tag.html",
         "entity.name.tag.js",
+        "entity.name.tag.jsx",
+        "entity.name.tag.ts",
+        "entity.name.tag.tsx",
         "meta.tag.js",
-        "meta.jsx.children.tsx",
-        "meta.tag.js",
-        "meta.jsx.children.tsx",
-        "meta.tag.js"
       ],
       "settings": {
         "foreground": "#008b94"
@@ -633,7 +666,8 @@
         "variable.language, entity.name.type.class.js",
         "entity.other.inherited-class.js",
         "variable.language.this.ts",
-        "variable.language.this.java"
+        "variable.language.this.java",
+        "variable.language.this.js"
       ],
       "settings": {
         "foreground": "#d98e48"
@@ -641,7 +675,15 @@
     },
     {
       "name": "[JAVASCRIPT] - Inherited Component",
-      "scope": ["entity.other.inherited-class.js", "variable.language.this.js", "variable.other.readwrite.alias.js", "meta.import.js"],
+      "scope": [
+        "entity.other.inherited-class.js",
+        "variable.other.readwrite.alias.js",
+        "meta.import.js",
+        "punctuation.accessor.js",
+        "punctuation.accessor.jsx",
+        "punctuation.accessor.ts",
+        "punctuation.accessor.tsx"
+      ],
       "settings": {
         "foreground": "#B7C5D3"
       }
@@ -651,17 +693,19 @@
       "scope": [
         "variable.other.constant.js",
         "variable.other.constant.js.jsx",
-        "variable.other.constant.ts"
-      ],
-      "settings": {
-        "foreground": "#8BD49C"
-      }
-    },
-    {
-      "name": "[TYPESCRIPT] - class thingy",
-      "scope": [
-        "variable.object.property.ts",
+        "variable.other.constant.ts",
+        "variable.other.constant.property.ts",
+        "variable.other.constant.property.js",
+        "variable.other.constant.property.tsx",
+        "variable.other.constant.tsx",
+        "support.constant.json.js",
+        "support.constant.json.ts",
+        "support.constant.json.tsx",
+        "variable.other.constant.object.js",
         "variable.object.property.js",
+        "variable.object.property.jsx",
+        "variable.object.property.ts",
+        "variable.object.property.tsx",
       ],
       "settings": {
         "foreground": "#8BD49C"
@@ -758,7 +802,9 @@
       "scope": [
         "storage.type.java",
         "support.type.primitive.ts",
-        "entity.name.type.ts"
+        "support.type.primitive.tsx",
+        "entity.name.type.ts",
+        "entity.name.type.tsx",
       ],
       "settings": {
         "fontStyle": "italic",
