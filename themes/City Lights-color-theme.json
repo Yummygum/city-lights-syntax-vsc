@@ -674,7 +674,7 @@
       }
     },
     {
-      "name": "[JAVASCRIPT] - Inherited Component",
+      "name": "[JAVASCRIPT] - Inherited Component and obj key colors",
       "scope": [
         "entity.other.inherited-class.js",
         "variable.other.readwrite.alias.js",
@@ -682,7 +682,8 @@
         "punctuation.accessor.js",
         "punctuation.accessor.jsx",
         "punctuation.accessor.ts",
-        "punctuation.accessor.tsx"
+        "punctuation.accessor.tsx",
+        "variable.other.readwrite.tsx",
       ],
       "settings": {
         "foreground": "#B7C5D3"
