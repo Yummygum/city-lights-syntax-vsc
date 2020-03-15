@@ -687,7 +687,10 @@
         "punctuation.accessor.jsx",
         "punctuation.accessor.ts",
         "punctuation.accessor.tsx",
+        "variable.other.readwrite.ts",
         "variable.other.readwrite.tsx",
+        "variable.other.readwrite.js",
+        "variable.other.readwrite.jsx",
       ],
       "settings": {
         "foreground": "#B7C5D3"
