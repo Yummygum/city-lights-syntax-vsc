@@ -28,14 +28,14 @@
 
     "debugExceptionWidget.background": "#1D252C",
     "debugExceptionWidget.border": "#b7c5d3",
-    "debugToolBar.background": "#1D252C",
+    "debugToolBar.background": "#B7C5D3",
 
     "descriptionForeground": "#b7c5d3",
 
-    "diffEditor.insertedTextBackground": "#3ad90011",
-    "diffEditor.insertedTextBorder": "#3ad90055",
-    "diffEditor.removedTextBackground": "#ee3a4311",
-    "diffEditor.removedTextBorder": "#ee3a4355",
+    "diffEditor.insertedTextBackground": "#B7C5D3",
+    "diffEditor.insertedTextBorder": "#333F4A",
+    "diffEditor.removedTextBackground": "#B7C5D3",
+    "diffEditor.removedTextBorder": "#333F4A",
 
     "dropdown.background": "#41505e",
     "dropdown.border": "#41505e",
@@ -68,7 +68,7 @@
     "editor.wordHighlightBackground": "#3d454d",
     "editorBracketMatch.background": "#4e6e99",
     "editorBracketMatch.border": "#26506D",
-    "editorCodeLens.foreground": "#FFFFFF0D",
+    "editorCodeLens.foreground": "#B7C5D3",
     "editorCursor.foreground": "#b7c5d3",
     "editorError.border": "#333F4A",
     "editorError.foreground": "#e27e8d",
@@ -153,7 +153,7 @@
 
     "peekView.border": "#333F4A",
     "peekViewEditor.background": "#15232d",
-    "peekViewEditor.matchHighlightBackground": "#15232d",
+    "peekViewEditor.matchHighlightBackground": "#333F4A",
     "peekViewEditorGutter.background": "#333F4A",
     "peekViewResult.background": "#15232d",
     "peekViewResult.fileForeground": "#b7c5d3",
@@ -234,9 +234,9 @@
     "terminalCursor.background": "#008B94",
     "terminalCursor.foreground": "#008B94",
 
-    "textBlockQuote.background": "#171d23",
-    "textBlockQuote.border": "#171d23",
-    "textCodeBlock.background": "#171d23",
+    "textBlockQuote.background": "#B7C5D3",
+    "textBlockQuote.border": "#B7C5D3",
+    "textCodeBlock.background": "#B7C5D3",
     "textLink.activeForeground": "#718ca1",
     "textLink.foreground": "#718ca1",
     "textPreformat.foreground": "#718ca1",
