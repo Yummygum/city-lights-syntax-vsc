@@ -1,26 +1,31 @@
 {
-    "name": "city-lights-theme",
-    "displayName": "City Lights theme",
-    "description": "The City Lights Color Theme is a gorgeous dark color theme designed with focus in mind.",
-    "version": "1.1.5",
-    "author": "Noud Adrichem",
-    "category": "Theme",
-    "publisher": "yummygum",
-    "icon": "icon.png",
-    "repository": "https://github.com/Yummygum/city-lights-syntax-vsc",
-    "engines": {
-        "vscode": "^1.17.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "City Lights",
-                "uiTheme": "vs-dark",
-                "path": "./themes/City Lights-color-theme.json"
-            }
-        ]
-    }
+	"name": "city-lights-theme",
+	"displayName": "City Lights theme",
+	"description": "The City Lights Color Theme is a gorgeous dark color theme designed with focus in mind.",
+	"version": "1.1.6",
+	"author": "Noud Adrichem",
+	"category": "Theme",
+	"publisher": "yummygum",
+	"icon": "icon.png",
+	"repository": "https://github.com/Yummygum/city-lights-syntax-vsc",
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "City Lights",
+				"uiTheme": "vs-dark",
+				"path": "./themes/City Lights-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9af62ee3-0097-4b7b-891a-4a94eb3e1009",
+		"publisherDisplayName": "Yummygum",
+		"publisherId": "e3dfdd72-432a-4f16-bac9-f33b77077cdc"
+	}
 }
