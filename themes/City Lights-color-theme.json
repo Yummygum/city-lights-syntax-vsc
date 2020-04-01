@@ -26,16 +26,20 @@
 
     "contrastBorder": "#ffffff00",
 
-    "debugExceptionWidget.background": "#1D252C",
+    "debugExceptionWidget.background": "#181e24",
     "debugExceptionWidget.border": "#b7c5d3",
-    "debugToolBar.background": "#B7C5D3",
+    "debugToolBar.background": "#181e24",
 
     "descriptionForeground": "#b7c5d3",
 
-    "diffEditor.insertedTextBackground": "#B7C5D3",
-    "diffEditor.insertedTextBorder": "#333F4A",
-    "diffEditor.removedTextBackground": "#B7C5D3",
-    "diffEditor.removedTextBorder": "#333F4A",
+    // "diffEditor.insertedTextBackground": "#B7C5D3",
+    // "diffEditor.insertedTextBorder": "#333F4A",
+    // "diffEditor.removedTextBackground": "#B7C5D3",
+    // "diffEditor.removedTextBorder": "#333F4A",
+    "diffEditor.insertedTextBackground": "#204729",
+    "diffEditor.insertedTextBorder": "#204729",
+    "diffEditor.removedTextBackground": "#5C2A31",
+    "diffEditor.removedTextBorder": "#5C2A31",
 
     "dropdown.background": "#41505e",
     "dropdown.border": "#41505e",
@@ -64,12 +68,12 @@
     "editor.selectionHighlightBackground": "#28313a",
 
     "editor.wordHighlightStrongBackground": "#41505e",
-
-    "editor.wordHighlightBackground": "#3d454d",
-    "editorBracketMatch.background": "#4e6e99",
-    "editorBracketMatch.border": "#26506D",
-    "editorCodeLens.foreground": "#B7C5D3",
-    "editorCursor.foreground": "#b7c5d3",
+    
+    "editor.wordHighlightBackground": "#FFFFFF0D",
+    "editorBracketMatch.background": "#3d454d",
+    "editorBracketMatch.border": "#4e6e99",
+    "editorCodeLens.foreground": "#b7c5d3",
+    "editorCursor.foreground": "#5ec4ff",
     "editorError.border": "#333F4A",
     "editorError.foreground": "#e27e8d",
 
@@ -153,7 +157,7 @@
 
     "peekView.border": "#333F4A",
     "peekViewEditor.background": "#15232d",
-    "peekViewEditor.matchHighlightBackground": "#333F4A",
+    "peekViewEditor.matchHighlightBackground": "#15232d",
     "peekViewEditorGutter.background": "#333F4A",
     "peekViewResult.background": "#15232d",
     "peekViewResult.fileForeground": "#b7c5d3",
@@ -234,9 +238,9 @@
     "terminalCursor.background": "#008B94",
     "terminalCursor.foreground": "#008B94",
 
-    "textBlockQuote.background": "#B7C5D3",
-    "textBlockQuote.border": "#B7C5D3",
-    "textCodeBlock.background": "#B7C5D3",
+    "textBlockQuote.background": "#171d23",
+    "textBlockQuote.border": "#171d23",
+    "textCodeBlock.background": "#171d23",
     "textLink.activeForeground": "#718ca1",
     "textLink.foreground": "#718ca1",
     "textPreformat.foreground": "#718ca1",
