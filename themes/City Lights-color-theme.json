@@ -789,7 +789,7 @@
         "entity.other.inherited-class.java",
       ],
       "settings": {
-        
+
         "foreground": "#d98e48"
       }
     },
@@ -869,6 +869,27 @@
       ],
       "settings": {
         "foreground": "#8bd49c"
+      }
+    },
+    {
+      "name": "Inserted line markup",
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#8bd49c"
+      }
+    },
+    {
+      "name": "Deleted line markup",
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#e27e8d"
+      }
+    },
+    {
+      "name": "Changed line markup",
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#ebbf83"
       }
     },
   ]
